@@ -1,0 +1,5 @@
+.bi-android2::before {
+    content: "\f7d1";
+    font-size: 150px;
+    color: blueviolet;
+}
